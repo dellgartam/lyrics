@@ -1,4 +1,4 @@
-# lyrics
+# Lyrics
 Lyric recite program for code challenge interview
 
 Create algorithm OOP implementation is prefered (using pseudo or any language) to recite any line of this lyrics
